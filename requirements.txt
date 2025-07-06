@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+einops
+numpy
+matplotlib
+seaborn
+wandb
